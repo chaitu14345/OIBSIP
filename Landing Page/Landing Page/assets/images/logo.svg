@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="100">
+  <!-- Background shape -->
+  <rect width="100%" height="100%" fill="#f5332c" />
+
+  <!-- Text -->
+  <text x="50%" y="50%" fill="#ffffff" text-anchor="middle" dy=".3em" font-size="40">
+    Footware Fusion
+  </text>
+</svg>
